@@ -1,0 +1,28 @@
+name: Davewashere.com
+favicon: null
+layout_spectrum: 0.42385303415358067
+typography_spectrum: 0.926591725088656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5336870236787945
+  lightness: 0.43586684926413
+  saturation: 0.5592982799280435
+  rhythmicContrast: 0.2205646864604205
+purpose: []
